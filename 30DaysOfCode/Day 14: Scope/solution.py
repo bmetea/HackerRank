@@ -11,7 +11,6 @@ class Difference:
             if abs_max > max:
                 max = abs_max
     self.maximumDifference = max
-    #Bogdan Are 
 
 
 _ = input()
