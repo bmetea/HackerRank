@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="087649f8-43d9-4bb6-89a7-edf1e8813c4d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Implementation/bon_apetit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Implementation/grading_students.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Implementation/sock_merchant.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HackAJob/MorseEncodeDecode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grading_students.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="grading_students.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/grading_students.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apple_and_orange.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,6 +144,7 @@
         <option value="$PROJECT_DIR$/Algorithms/Implementation/sock_merchant.py" />
         <option value="$PROJECT_DIR$/HackAJob/MorseEncodeDecode.py" />
         <option value="$PROJECT_DIR$/Algorithms/Implementation/grading_students.py" />
+        <option value="$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py" />
       </list>
     </option>
   </component>
@@ -714,8 +721,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/grading_students.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
