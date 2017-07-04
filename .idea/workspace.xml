@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="087649f8-43d9-4bb6-89a7-edf1e8813c4d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Implementation/kangaroo.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,8 +59,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apple_and_orange.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="apple_and_orange.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kangaroo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/kangaroo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -91,16 +101,6 @@
       </file>
       <file leaf-file-name="sparse_arrays.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructures/Arrays/sparse_arrays.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dynamic_array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructures/Arrays/dynamic_array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -145,6 +145,7 @@
         <option value="$PROJECT_DIR$/HackAJob/MorseEncodeDecode.py" />
         <option value="$PROJECT_DIR$/Algorithms/Implementation/grading_students.py" />
         <option value="$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py" />
+        <option value="$PROJECT_DIR$/Algorithms/Implementation/kangaroo.py" />
       </list>
     </option>
   </component>
@@ -728,6 +729,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/apple_and_orange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Implementation/kangaroo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
